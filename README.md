@@ -6,6 +6,7 @@ Scrape retail web pages with Scrapy and GraphQL
 
 ### Objective
 O objetivo desse projeto é mostrar habilidades com o básico de scrapy, uma poderosa ferramenta para scrapers de alta performance. 
+Os dados coletados nos site são referentes aos produtos vendidos (preço, EAN, URL do produto). 
 
 ## Key concepts
 Primeiramente é importante destacar a forma com que isso foi feito. 
